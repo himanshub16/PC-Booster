@@ -1,7 +1,9 @@
 # PC-Booster
 Boost your PC's performance by running this file!
 
-This file deletes all the temporary files and folders and hence, speeds up the performance of your PC.
+The Boost.bat file deletes all the temporary files and folders and hence, speeds up the performance of your PC. It uses deltree.bat file (which is a type of function) to delete both, files and folders.
+
+Sometimes, it may show "Unable to access the file as it is being used by another process". So, I would suggest you to run this file on startup so that no such problem occurs.
 
 Steps:
 1. Download all these files to your PC and save them in a folder.
