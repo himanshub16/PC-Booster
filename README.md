@@ -10,4 +10,6 @@ HOW TO USE?
 2. Double click on Boost.bat and grant the administration permissions when it asks for it.  
 3. That's it! It deletes all your temporary files and your PC is boosted.  
 
+UPDATE: Sometimes, usually on the first run, the script may seem to stop in the Command Prompt Windows, just press ENTER and it will be fine.
+
 You can also use the Event Viewer in Windows to create an event that runs this file on startup.
