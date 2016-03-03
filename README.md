@@ -13,3 +13,5 @@ HOW TO USE?
 UPDATE: Sometimes, usually on the first run, the script may seem to stop in the Command Prompt Windows, just press ENTER and it will be fine.
 
 You can also use the Event Viewer in Windows to create an event that runs this file on startup.
+<br><br><h2>Maintained by:</h2><p>Piyush Arora<br>
+<a href="http://www.facebook.com/MastermindPiyush1"> Facebook </a>
